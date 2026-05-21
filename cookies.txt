@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+hs-scripts.com	TRUE	/	FALSE	1999999999	__cf_bm	Y47s9s6uaveJZwL1Tt7cF3FtjmUHX0OYjN.kfy4iENw-1779267015.907496-1.0.1.1-sNh0UPiu8pcgLNpxorbyW16ES7W0K4xDWSk3J4jxu.sWUQoTHvM5nvGIkSrVozvAgj_WCfQIyg46WjjrZxClt4kiEaafilUIPhj82U3OO.JPt4Zc.eVhjdn_gdqTmdEq
+www.onramper.com	TRUE	/	FALSE	1999999999	_cfuvid	hXItnSIC6H.jTQnbrbRaeH4mXh.81r1jkkLebqwQM4g-1779267300.9240198-1.0.1.1-x3QYYkr8gRjlJ.JWIjqcaKzsAOaGfweU1klKtHxxqAU
+www.onramper.com	TRUE	/	FALSE	1999999999	SameSite	None
+

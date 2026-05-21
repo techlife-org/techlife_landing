@@ -1,0 +1,10 @@
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 19.01 17.1" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path id="Polygon 1 (Stroke)" fill-rule="evenodd" clip-rule="evenodd" d="M9.50499 3.94146L3.73853 13.9293H15.2715L9.50499 3.94146ZM11.5835 1.2C10.6597 -0.399999 8.35029 -0.400001 7.42653 1.2L0.32512 13.5C-0.598641 15.1 0.556058 17.1 2.40358 17.1H16.6064C18.4539 17.1 19.6086 15.1 18.6849 13.5L11.5835 1.2Z" fill="url(#paint0_linear_0_4)"/>
+<defs>
+<linearGradient id="paint0_linear_0_4" x1="-0.0072056" y1="17.1679" x2="16.5712" y2="5.8892" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3477CA"/>
+<stop offset="0.485055" stop-color="#00D7BF" stop-opacity="0.9"/>
+<stop offset="1" stop-color="#00D7BF"/>
+</linearGradient>
+</defs>
+</svg>
